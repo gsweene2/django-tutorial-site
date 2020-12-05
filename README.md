@@ -8,3 +8,14 @@ https://docs.djangoproject.com/en/3.1/intro/tutorial02/
 ```
 python manage.py runserver
 ```
+
+## Run tests for app
+
+```
+python manage.py test <app>
+```
+
+Example:
+```
+python manage.py test polls
+```
