@@ -6,6 +6,8 @@ https://docs.djangoproject.com/en/3.1/intro/tutorial02/
 
 ## Run locally
 ```
+pipenv shell
+pipenv install
 python manage.py runserver
 ```
 
